@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+# COSP webpage
 
-You can use the [editor on GitHub](https://github.com/alejandrobodas/wikitests/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the COSP web pages. This repository hosts the COSP web pages, and it is independent from the sister repository that hosts the [code](https://github.com/CFMIP/COSPv2.0).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Information for COSP users
+The installation instructions are in the [README](https://github.com/CFMIP/COSPv2.0/README.md) file of the code repository.
 
-### Markdown
+Here, we provide some addtional information for users:
+- [Users issues:](users_issues.md) progress on issues raised by users during the 2017 Paris Workshop, and the users discussions in the CFMIP meetings. 
+- [CFMIP3 Papers:](cfmip3_papers.md) table with information on leaders and contributions to papers that will use CFMIP3 output.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Information for COSP developers
+If you plan to contribute to COSP, it is imperative that you read the following two documents:
+- [Working practices](working_practices.md)
+- [Coding standards](coding_standards.md)
+
+## Markdown
+The pages are written in Markdown, a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +37,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alejandrobodas/wikitests/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+Whenever anyone commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
